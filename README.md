@@ -1,2 +1,1 @@
-#ssc
-newer than qcssc
+#ssc newer than qcssc
